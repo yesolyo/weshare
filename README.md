@@ -11,6 +11,7 @@ python을 이용하여 카페 부동산 시스템을 제작
 
 ### 순서도
 
+<img width="295" src="https://user-images.githubusercontent.com/104904719/193554961-d69a36d1-4efe-43da-9b50-7279dd967dd4.png">
 
 ### 테이크아웃
 <img width="80%" src="https://user-images.githubusercontent.com/104904719/193550801-c98fba6a-326f-4725-8a38-4d5cab859a08.gif"/>
